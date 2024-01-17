@@ -26,6 +26,7 @@ LinkedIn: www.linkedin.com/in/ivan-taus-ruiz-40103429b
 Email: itaus.2004@gmail.com
 
 🎯 Goal
+
 My aim is to continue growing as a developer, contribute to meaningful projects, and keep learning on this exciting web development journey.
 
 Thanks for visiting my profile! I hope you find something inspiring here. 😊
