@@ -19,6 +19,7 @@ IES Virgen del Espino, Soria (Currently in progress)
 👨‍💻 Featured Projects
 
 🤝 Collaboration
+
 I'm open to collaborations and exciting opportunities! If you have a cool idea or an interesting project, let's talk!
 
 📫 Contact
