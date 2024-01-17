@@ -14,6 +14,7 @@ Responsive Design: Prioritizing user experience across all devices!
 🌱 Currently Learning
 
 📚 Education
+
 Higher Education in Web Development
 IES Virgen del Espino, Soria (Currently in progress)
 👨‍💻 Featured Projects
