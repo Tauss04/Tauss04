@@ -22,6 +22,7 @@ IES Virgen del Espino, Soria (Currently in progress)
 I'm open to collaborations and exciting opportunities! If you have a cool idea or an interesting project, let's talk!
 
 📫 Contact
+
 LinkedIn: www.linkedin.com/in/ivan-taus-ruiz-40103429b
 Email: itaus.2004@gmail.com
 
